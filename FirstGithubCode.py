@@ -1,0 +1,1 @@
+print("This file is directly  accessible from Github Desktop.")
